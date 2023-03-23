@@ -1,2 +1,3 @@
 this is file a
 G edir file a
+O edit file
