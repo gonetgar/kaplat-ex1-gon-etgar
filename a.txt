@@ -1,1 +1,2 @@
 this is file a
+G edir file a
