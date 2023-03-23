@@ -1,1 +1,2 @@
 this is file b
+Q select file b.txt and add some data
